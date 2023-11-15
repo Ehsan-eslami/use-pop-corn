@@ -83,7 +83,7 @@ function Logo() {
   return (
     <div className="logo">
       <span role="img">🍿</span>
-      <h1>usePopcorn</h1>
+      <h1>Commit 2</h1>
     </div>
   );
 }
